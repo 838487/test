@@ -1,0 +1,1 @@
+E:\Projects\audition-api\build\classes\java\test\com\audition\AuditionApplicationTests.class
